@@ -1,0 +1,5 @@
+print("Welcome to Image Enhancement X")
+print("------------------------------")
+print("Login")
+Username = input("Please input your username: ")
+password = input("Please input your password: ")
